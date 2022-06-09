@@ -1,6 +1,6 @@
 # OpenAI Node.js Library
 
-The OpenAI Node.js library provides convenient access to the OpenAI API from Node.js applications. Most of the code in this library is generated from our [OpenAPI specification](https://github.com/openai/openai-openapi).
+A The OpenAI Node.js library provides convenient access to the OpenAI API from Node.js applications. Most of the code in this library is generated from our [OpenAPI specification](https://github.com/openai/openai-openapi).
 
 **Important note: this library is meant for server-side usage only, as using it in client-side browser code will expose your secret API key. [See here](https://beta.openai.com/docs/api-reference/authentication) for more details.**
 
